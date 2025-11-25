@@ -1,0 +1,5 @@
+ALTER TABLE Movies
+ALTER COLUMN Duracao INT;
+
+ALTER TABLE Movies
+ALTER COLUMN VoteCount INT;
